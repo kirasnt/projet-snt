@@ -1,0 +1,54 @@
+h1
+{
+	color: ghostwhite;
+}
+h1
+{
+	font-family: unset;
+}
+h1
+{
+	font-weight: bolder;
+}
+body
+
+{background-color: lightcoral;
+
+}
+body
+{
+	font-family: unset;
+}
+
+
+#carte
+{
+
+	width:800px;
+	margin:0 auto;
+	background-color:lightpink ;
+	text-align: center;
+	align-content: center;
+}
+h2
+{
+	color: lightpink;
+}
+{
+	font-family:revert-layer ;
+}
+h3
+{
+	color: blueviolet;
+}
+h3
+{
+	font-weight: bold;
+    font-family:sans-serif;
+    text-decoration: underline;
+}
+
+h6
+{
+	font-size: medium;
+}
